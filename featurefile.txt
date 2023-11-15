@@ -5,3 +5,8 @@ this is an assignment from Ibrahim Jemal
 
 
 second line for second commit
+
+
+
+
+the last and the theerd line of featurefile.txt
