@@ -1,2 +1,4 @@
 # GitMasteryChallenge
-im cretaing this repository for activity one given by our teacher
+im creating this repository for activity one given by our teacher
+
+this is a change on README.md file 
